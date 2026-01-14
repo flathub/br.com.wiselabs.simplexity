@@ -36,8 +36,8 @@ modules:
     subdir: main
     sources:
       - type: archive
-        url: https://github.com/Wiselabs/simplexity/releases/download/v1.1.1/simplexity-1.1.1-linux-x86_64.tar.gz
-        sha256: 2fd1ed374410b494bc0147263dfc545043f8dbfbb9ecf659ab04de6bebed4d43
+        url: https://github.com/Wiselabs/simplexity/releases/download/v1.2.0/simplexity-1.2.0-linux-x86_64.tar.gz
+        sha256: e656cc1b30c93ea08f0c784c1aa227977d664a596091c3a055c6418e02956863
         dest: main
         strip-components: 0
       # Wrapper to launch the app
